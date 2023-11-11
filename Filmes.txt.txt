@@ -3,3 +3,4 @@ Kill Bill
 Django
 Um Drink no Inferno
 Clube da Luta
+Karate Kid
